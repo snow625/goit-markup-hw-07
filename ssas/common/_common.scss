@@ -3,6 +3,13 @@
   list-style: none;
 }
 
+body {
+  background-color: var(--background-white-color);
+  color: var(--primery-text-color);
+  font-family: var(--main-font);
+  letter-spacing: 0.03em;
+}
+
 /* Убирает подчеркивание у ссылок */
 a {
   text-decoration: none;
